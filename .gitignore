@@ -1,0 +1,31 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.vscode/
+.history/
+
+# Optional: Keep specific VSCode settings in the repo
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Visual Studio Code Extensions
+*.vsix
+
+# Other unnecessary files
+.DS_Store
+Thumbs.db
+*.log
